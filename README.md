@@ -6,7 +6,9 @@ Register modded items in the normal Build menu.
 
 Install [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) first.
 
-Download [build-menu-framework-0.2.2.msmod](content/build-menu-framework-0.2.2.msmod), import it with **Install mod package**, then select the mod and its required frameworks.
+Download [build-menu-framework-0.2.2.msmod](content/build-menu-framework-0.2.2.msmod), then drag and drop the `.msmod` file onto the [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) window. You can also use **Add mods…** (older loader builds: **Install mod package**).
+
+Select the mod and its required frameworks, click **Prepare files**, then **Launch**.
 
 ## Controls
 
