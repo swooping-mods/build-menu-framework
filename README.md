@@ -1,5 +1,7 @@
 # Build Menu Framework
 
+<img src="media/icon.png" alt="Build Menu Framework icon" width="128" height="128">
+
 Register modded items in the normal Build menu.
 
 ## Install
