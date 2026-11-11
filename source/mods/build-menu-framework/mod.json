@@ -1,0 +1,23 @@
+{
+  "id": "build-menu-framework",
+  "kind": "native",
+  "version": "0.2.2",
+  "build_menu_max_kind": 384,
+  "feature_dependencies": [],
+  "gameplay": true,
+  "display_name": "Build Menu Framework",
+  "play_help": [
+    "Shared registration for native Build menu items; no player shortcuts."
+  ],
+  "provides": {
+    "build-menu-framework.build-menu": {
+      "abi": 1,
+      "size": 24,
+      "limits": {
+        "max_items": 192,
+        "build_menu_max_kind": 384,
+        "native_power_nodes": 1
+      }
+    }
+  }
+}

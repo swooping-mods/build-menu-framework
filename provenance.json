@@ -1,0 +1,83 @@
+{
+  "schema": "mod-source-hashes/v1",
+  "source_files": {
+    "mods/build-menu-framework/icons.h": {
+      "export_sha256": "e4ec96c6f395c6556bc0efce3003f709299bb8f1d846907b7bdfe6e66aa69b36"
+    },
+    "mods/build-menu-framework/mod.c": {
+      "export_sha256": "d1da1efbda745a0bdd38c876ac33f3e2525be4696c4cce8ac48e152e48dee360"
+    },
+    "mods/build-menu-framework/mod.json": {
+      "export_sha256": "c45d1424e5e8459e9fcc0f9c70faa2de704154192189cd73ba03326d8e15add6"
+    },
+    "mods/build-menu-framework/power_gate.h": {
+      "export_sha256": "9ce71d00691dcc8bdbd46f84fb48fe2539abdabc4e83fa7024c1d5f6596eeb4d"
+    },
+    "mods/build-menu-framework/power_runtime.h": {
+      "export_sha256": "1546751df16c9f45abd7157920f4a9a359d2913523afee81c75c4b6e5a3aacd7"
+    },
+    "mods/build-menu-framework/power_sites.h": {
+      "export_sha256": "9d1e1dfb5f77f91b81ffa036ee311cad87a0dd6e7f44cede432273304b29fd30"
+    },
+    "mods/build-menu-framework/registry.h": {
+      "export_sha256": "3665ee2b18ad8c1dff79c120def786204dab37d27ddba0c797294436b7dde116"
+    },
+    "mods/build-menu-framework/runtime.h": {
+      "export_sha256": "1d6fd692cc8ae7e269f58b9d04cb664e7c2f4aefcc9c11d946967aa5f7998825"
+    },
+    "mods/build-menu-framework/save_limit.h": {
+      "export_sha256": "8df764d28c12ea2b322cafec78541f9bb58a561bdb913eab8e7d268c71dff3ab"
+    },
+    "mods/build-menu-framework/sdk/bootstrap.h": {
+      "export_sha256": "9b132b47e65ca9ef89a9ef51c88e89c6baf4d61bba4f23ba38c3b701515c80bd"
+    },
+    "mods/build-menu-framework/sdk/build_menu.h": {
+      "export_sha256": "77da2f004cc2480f6debb3aa30ddde401fb0c373e7f20ee34d64e558b0693683"
+    },
+    "mods/build-menu-framework/sdk/client.h": {
+      "export_sha256": "810ebff6bdc5f0b22ed6f605c0e250c929ce203130121966e027f162bb21f818"
+    },
+    "mods/build-menu-framework/sdk/construction.h": {
+      "export_sha256": "22d5e567d285abe15f70b3cf81858ec94948bfaa7017dcff394d1e8b57f18df4"
+    },
+    "mods/build-menu-framework/sdk/construction_unity.h": {
+      "export_sha256": "6dc845d2cd77dd3a469c0df04ed45f0364dc87fe4670e2d01b0b21b918913cec"
+    },
+    "mods/build-menu-framework/standalone_update.h": {
+      "export_sha256": "932c493fad288f4cdac3ee5f714d5fb9eae43f6d3af55989eccc30c46adc38db"
+    },
+    "mods/sound-framework/sdk/sound.h": {
+      "export_sha256": "9f7ea75cc11b730018b676bd2e0364cb402bf94daa0410df181af00405af0164"
+    },
+    "runtime/native/gameplay.h": {
+      "export_sha256": "7676362469a7972f54f9c7304d41d32396b4f81cc9a9f9935983c54b90cb061d"
+    },
+    "runtime/native/hook_context.h": {
+      "export_sha256": "28f6c6502f3b4d6e8ae02c06e60b6d3b7f1b8674d0a5f20ac42664ea3133d016"
+    },
+    "runtime/native/hook_engine.h": {
+      "export_sha256": "2cea82d754c1792bc3eddfba10261c7de7eb0a33316cc5d1aa28a99ee78882df"
+    },
+    "runtime/native/services.h": {
+      "export_sha256": "1178e09c77f30f53bbccbfbacf8771e5faad1cf79753703d90dfd0a1e0fbadeb"
+    },
+    "runtime/sdk/context.h": {
+      "export_sha256": "6c84145cc761550c4943aa10c52242a538e92243f79a1b20c65b6a4ef9e82605"
+    },
+    "runtime/sdk/hooks.h": {
+      "export_sha256": "7c006f1254dd6a130f56dac499ba8196fb84ee4883443ee4f12d601534df56ec"
+    },
+    "runtime/sdk/native_adapters/reflection.h": {
+      "export_sha256": "613aca15342aabf7313107e0f7eb060c5bcbdc54e06ebc7d73fe09037bd952e2"
+    },
+    "runtime/sdk/services.h": {
+      "export_sha256": "72de584c98cf0ca6367f5decd4416c78fa4eeea44b4b48401d0737a44b2c7a2b"
+    },
+    "runtime/sdk/services_client.h": {
+      "export_sha256": "17f670371f5798457301b14c046daa99632c9685cc2c5f78921c3fe53d095479"
+    },
+    "runtime/sdk/vehicle_input.h": {
+      "export_sha256": "6af332b456ff9fb74e96a6e963a8cf9627bd51a8edca55f07b6e5a829b9da790"
+    }
+  }
+}

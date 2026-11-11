@@ -1,0 +1,6 @@
+{
+  "schema": "moon-independent-build-spec/v1",
+  "id": "build-menu-framework",
+  "kind": "native",
+  "entry": "mods/build-menu-framework/mod.c"
+}
